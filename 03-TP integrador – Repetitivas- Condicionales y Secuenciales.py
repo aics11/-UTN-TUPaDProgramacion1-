@@ -1,4 +1,4 @@
-
+#tp N°3
 #ejercicio N°1
 nombre = input("Ingrese el nombre del cliente: ")
 while not nombre.isalpha() or nombre == "":
