@@ -276,7 +276,7 @@ while energia > 0 and tiempo > 0 and cerraduras_abiertas < 3: #corazon del juego
     if alarma == True and tiempo <= 3 and cerraduras_abiertas < 3:
         print("🚨 Sistema bloqueado! Perdiste")
         break
-
+#Ejercicio N°5  
 Vida_del_Gladiador = 100
 Vida_del_Enemigo = 100
 Pociones_de_Vida = 3
